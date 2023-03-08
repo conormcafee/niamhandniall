@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "rings",
+    "time": "1:00pm",
+    "subText": "Ceremony Mass"
+  },
+  {
+    "icon": "drinks",
+    "time": "3:00pm",
+    "subText": "Drinks"
+  },
+  {
+    "icon": "food",
+    "time": "5:00pm",
+    "subText": "BBQ Dinner"
+  },
+  {
+    "icon": "party",
+    "time": "8:30pm",
+    "subText": "Dancing"
+  }
+]
