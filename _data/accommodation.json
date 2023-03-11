@@ -1,0 +1,144 @@
+[
+  {
+    "name": "The Fairways Hotel, Dundalk",
+    "telephone": "+353429343910",
+    "description": "They will be running a free bus to the venue around 2/2:30pm and also return buses back to The Fairways Hotel at approx 1am & 2:30am",
+    "additional_description": "Couples should contact Linda McArdle, mention Segrave Barns apon booking as there is a block of rooms booked",
+    "email": "reservations@fairwayshotel.ie"
+  },
+  {
+    "name": "Margaret Byrne",
+    "distance": "6 minute drive away",
+    "telephone": "+353862582819",
+    "description": "Room 1: Double with en-suite",
+    "additional_description": "Room 2: Double with WC & sink, seperate shower room upstairs",
+    "email": ""
+  },
+  {
+    "name": "Tom Kelly",
+    "distance": "10 minute drive away",
+    "telephone": "+353416852258",
+    "telephoneNumber2": "+353867276000",
+    "description": "3-bedroom apartment.  Room 1: Double room, shared bathroom.  Room 2: Double room, shared bathroom.  Room 3: Family room (1x double bed) and (1x single bed) with en-suite",
+    "additional_description": "Would suit extended family or a group of friends.  Shared kitchen, living area",
+    "email": "",
+    "eirCode": "A92 C6F2"
+  },
+  {
+    "name": "Catherine Rogers",
+    "distance": "10 minute drive away",
+    "telephone": "+353879186650",
+    "description": "Room 1: Double en-suite",
+    "additional_description": "Room 2: Double shared bathroom",
+    "email": "",
+    "eirCode": "A92RC43"
+  },
+  {
+    "name": "Alica Chawner, Sealodge",
+    "distance": "5 minute drive away",
+    "telephone": "+353872612921",
+    "description": "One double room apartment on the coast",
+    "additional_description": "",
+    "email": "",
+    "eirCode": "A92W135"
+  },
+  {
+    "name": "Cathryn Tuite, Clogherhead",
+    "distance": "9 minute drive awat",
+    "telephone": "+353858269198",
+    "description": "Two double rooms.  Room 1: Double with en-suite.  Room 2: Double with seperate bathrooom",
+    "additional_description": "",
+    "email": "",
+    "eirCode": "A92N6D9"
+  },
+  {
+    "name": "Shane Kelly, Annagassan",
+    "distance": "9 minute drive away",
+    "telephone": "+353879917340",
+    "description": "Small house, 2 double bedrooms & 1 bathroom",
+    "additional_description": "",
+    "email": "",
+    "eirCode": "A92Y9E2"
+  },
+  {
+    "name": "Louise Healey, Annagassan",
+    "distance": "9 minute drive away",
+    "telephone": "+353860644294",
+    "description": "Bungalow, 2 double bedrooms & 1 bathroom",
+    "additional_description": "",
+    "email": "",
+    "eirCode": "A92 AH47"
+  },
+  {
+    "name": "Caroline Cowling",
+    "telephone": "0872496261",
+    "distance": "15 minute drive away",
+    "description": "Drummeenagh Cottages, 3 self-catering cottages",
+    "additional_description": "",
+    "email": "",
+    "eirCode": "A91 YN72",
+    "website": "https://www.cottage.ie"
+  },
+  {
+    "name": "Flynn's of Termonfeckin, Boutique Hotel",
+    "telephone": "+353419822520",
+    "description": "",
+    "additional_description": "",
+    "email": "info@flynnsoftermonfeckin.ie"
+  },
+  {
+    "name": "The Grove Pub",
+    "telephone": "+353868174088",
+    "description": "5 newly furnished en-suite rooms on the Main Street, Dunleer",
+    "additional_description": "",
+    "email": ""
+  },
+  {
+    "name": "The Glyde Inn, Annagassan",
+    "telephone": "+353429372350",
+    "distance": "11 minute drive away",
+    "description": "Quaint old pub with accommodation upstairs",
+    "additional_description": "",
+    "email": "",
+    "website": "https://theglydeinn.ie"
+  },
+  {
+    "name": "David Breen, Annagassan",
+    "telephone": "+353877214885",
+    "distance": "11 minute drive away",
+    "description": "2 rooms",
+    "eirCode": "A92D2H1"
+  },
+  {
+    "name": "GlenGat House, Dundalk",
+    "telephone": "+353429337938",
+    "description": "Bed & Breakfast",
+    "email": "glengat@gmail.com",
+    "website": "https://www.glengathouse.com"
+  }, 
+  {
+    "name": "An Grianán, Termonfeckin",
+    "telephone": "+353419822119",
+    "email": "admin@an-grianan.ie"
+  },
+  {
+    "name": "St Jude's B&B",
+    "distance": "13 minutes drive away",
+    "description": "Main street, Dunleer (beside the Spar)",
+    "telephone": "+353416851329",
+    "telephoneNumber2": "+353877834495"
+  },
+  {
+    "name": "Deeside Manor B&B",
+    "telephone": "+353877558788"
+  }, 
+  {
+    "name": "Listoke House, Drogheda",
+    "description": "3 luxurious double en-suite rooms",
+    "telephone": "+353877447057"
+  },
+  {
+    "name": "Keernaun House B&B, Blackrock",
+    "telephone": "+353429321795"
+  }
+]
